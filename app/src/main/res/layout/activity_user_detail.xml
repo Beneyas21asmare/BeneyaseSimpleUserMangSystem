@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".UserDetail">
+    <TextView
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/fnamet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  "/>
+    <TextView
+        android:id="@+id/lnamet"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  "/>
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:id="@+id/emailt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  "/>
+    <TextView
+        android:id="@+id/usernamet"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  "/>
+    <TextView
+        android:id="@+id/phonet"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  "/>
+    <TextView
+        android:id="@+id/passwordt"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  "/>
+    <TextView
+        android:id="@+id/gendert"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  "/>
+
+
+</LinearLayout>
